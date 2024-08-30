@@ -1,0 +1,30 @@
+#container{
+    text-align: center;
+}
+button{
+    font-size:medium;
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(108, 108, 202);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(136, 136, 238);
+}
+
+input{
+    font-size: medium;
+    text-align: center;
+}
+
+#diceResult{
+    margin: 25px;
+}
+
+#diceImages img{
+    width:150px;
+    margin:5px;
+}
+body{
+    background-color: rgb(180, 246, 246);
+}
